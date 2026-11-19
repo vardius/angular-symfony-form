@@ -6,7 +6,7 @@
   "homepage": "https://github.com/Vardius/angular-symfony-form",
   "author": {
     "name": "Rafał Lorenz",
-    "email": "vardius@gmail.com"
+    "email": "support@vardius.dev"
   },
   "readmeFilename": "README.md",
   "main": "dist/angular-symfony-form.min.js",
